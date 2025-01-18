@@ -4,3 +4,5 @@ I am following the guide from this [video](https://www.youtube.com/watch?v=_xIwj
 
 1. [Learn Basic Python](python.md)
 2. [Math](math.md)
+3. [Machine Learning](machine.md
+)
