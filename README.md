@@ -2,7 +2,7 @@
 | :------------------------- | :--------------:     |
 | [Learn Basic Python](python.md)  | Started - [x]      Finished: - [x] |
 |                            |                                  |
-| [Math](math.md)            | Started: - [ ]       Finished: - [ ] |
+| [Math](math.md)            | Started: - [ ]       Finished: -[ ] |
 |                            |                                   |
 | [Machine Learning](machine.md)  | Started: - [ ]      Finished: - [ ] |
 |                            |                                   |
