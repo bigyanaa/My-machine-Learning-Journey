@@ -5,5 +5,5 @@ To learn about machine learning models like Logistic regression, Decission Trees
 
 ## Progress
 - [x] Download the [course](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
-- [] Finish the course
-- [] Do practical exercises from the course
+- [ ] Finish the course
+- [ ] Do practical exercises from the course
